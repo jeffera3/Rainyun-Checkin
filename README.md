@@ -55,6 +55,7 @@ https://img.shields.io/badge/Fork-本仓库-4285F4?style=for-the-badge&logo=gith
 | 变量名 | 说明 | 默认值 | 建议设置 |
 |--------|------|--------|----------|
 | `TIMEOUT` | 页面加载超时（秒） | `20` | 网络差可设为 `30` |
+> 如果需要设置`TIMEOUT`请前往checkin.yml文件取消对应的注释, 并在**Repository Secret**中添加`TIMEOUT`
 
 ### 🔧 高级配置（通常无需修改）
 | 变量名 | 说明 | 默认值 | 适用场景 |
