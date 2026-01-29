@@ -20,7 +20,7 @@
 ## 🚀 快速开始
 
 ### 1. Fork 仓库
-https://img.shields.io/badge/Fork-Rainyun-Checkin-4285F4?style=for-the-badge&logo=github](https://github.com/jeffera3/Rainyun-Checkin/fork)
+https://github.com/jeffera3/Rainyun-Checkin/fork
 
 点击上方按钮或访问 https://github.com/jeffera3/Rainyun-Checkin/fork
 
