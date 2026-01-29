@@ -20,9 +20,9 @@
 ## 🚀 快速开始
 
 ### 1. Fork 仓库
-https://img.shields.io/badge/Fork-本仓库-4285F4?style=for-the-badge&logo=github](https://github.com/0x6768/Rainyun-Checkin/fork)
+https://img.shields.io/badge/Fork-Rainyun-Checkin-4285F4?style=for-the-badge&logo=github](https://github.com/jeffera3/Rainyun-Checkin/fork)
 
-点击上方按钮或访问 https://github.com/0x6768/Rainyun-Checkin/fork
+点击上方按钮或访问 https://github.com/jeffera3/Rainyun-Checkin/fork
 
 ### 2. 配置环境变量
 1. 进入你 Fork 的仓库
